@@ -23,11 +23,9 @@ Apply proper CSS to ensure the profile card looks good.
 Use Tailwind CSS if possible for styling.
 
 Project Requirements:
+1. React JS
+2. Tailwind CSS
+3. Web Vitals
 
-The project must contain a valid package.json file.
 
-Submission:
-Submit SCREENSHOTS of your page.
 
-Tips:
-The better your CSS and overall design, the higher your priority in the interview queue.
